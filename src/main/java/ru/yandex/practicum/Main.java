@@ -6,5 +6,6 @@ public class Main {
 
         Sportcar sportcar = new Sportcar();
         System.out.println("Мощность двигателя: " + sportcar.getEnginePower() + " л.с.");
+        System.out.println("Проект изменен");
     }
 }
